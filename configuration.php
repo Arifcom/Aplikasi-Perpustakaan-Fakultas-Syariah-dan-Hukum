@@ -10,8 +10,8 @@
  * Path and URL Configuration
  */
 define('PATH', '');
-define("BASE_URL", "http://localhost/projects/perpustakaan/");
-define("SITE_URL", "");
+define("BASE_URL", "Base URL");
+define("SITE_URL", "Site URL");
 
 /*
  * Database Configuration
